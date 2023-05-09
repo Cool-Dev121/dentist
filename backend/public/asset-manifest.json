@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03fa7c18.css",
+    "main.js": "/static/js/main.665e2f64.js",
+    "static/js/200.968bfabf.chunk.js": "/static/js/200.968bfabf.chunk.js",
+    "static/js/539.a84e9879.chunk.js": "/static/js/539.a84e9879.chunk.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/tooth.png": "/static/media/tooth.19ee8dcc9c3f9cbbebcf.png",
+    "static/media/dentistry3.png": "/static/media/dentistry3.b0056122040d43968f0a.png",
+    "static/media/happycouple1.jpeg": "/static/media/happycouple1.78b978365ec102d0bba9.jpeg",
+    "static/media/dentistry2.png": "/static/media/dentistry2.6ad355d1cc6577392a1c.png",
+    "static/media/dentistry1.png": "/static/media/dentistry1.3b85707afb1b984a8c78.png",
+    "static/media/about-banner1.png": "/static/media/about-banner1.5fbf7b3eac5f503ee185.png",
+    "static/media/dentistry5.jpg": "/static/media/dentistry5.953497f9bbfa304a48fb.jpg",
+    "static/media/dental_logo.jpg": "/static/media/dental_logo.e7edd484b8dbe44f66f1.jpg",
+    "index.html": "/index.html",
+    "main.03fa7c18.css.map": "/static/css/main.03fa7c18.css.map",
+    "main.665e2f64.js.map": "/static/js/main.665e2f64.js.map",
+    "200.968bfabf.chunk.js.map": "/static/js/200.968bfabf.chunk.js.map",
+    "539.a84e9879.chunk.js.map": "/static/js/539.a84e9879.chunk.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03fa7c18.css",
+    "static/js/main.665e2f64.js"
+  ]
+}

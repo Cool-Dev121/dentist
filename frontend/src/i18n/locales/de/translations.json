@@ -1,0 +1,13 @@
+{
+    "header.signin.heading": "Login to your account",
+    "header.signin.paragraph": "Don't have an account yet?",
+    "header.signin.link": "Signup",
+    "header.signup.heading": "Signup to create an account",
+    "header.signup.paragraph": "Already have an account?",
+    "header.signup.link": "Login",
+    "rememberme": "Remember me",
+    "forgot": "Forgot your password?",
+    "btn.signin.title": "Sign in",
+    "btn.signup.title": "Sign up"
+
+  }

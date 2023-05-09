@@ -1,0 +1,12 @@
+{
+    "header.signin.heading": "Connectez-vous à votre compte",
+    "header.signin.paragraph": "Vous n'avez pas encore de compte?",
+    "header.signin.link": "S'inscrire",
+    "header.signup.heading": "Inscrivez-vous pour créer un compte",
+    "header.signup.paragraph": "Vous avez déjà un compte?",
+    "header.signup.link": "Connexion",
+    "rememberme": "Souviens-toi de moi",
+    "forgot": "Mot de passe oublié?",
+    "btn.signin.title": "S'identifier",
+    "btn.signup.title": "S'inscrire"
+  }
